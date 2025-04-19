@@ -1,0 +1,48 @@
+Cribly-web/
+├── node_modules/
+├── public/
+├── src/
+│   ├── assets/
+│   │   └── react.svg
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   └── ProtectedRoute.jsx
+│   ├── constants/
+│   │   └── routes.js
+│   ├── context/
+│   │   └── AuthContext.jsx
+│   ├── firebase/
+│   │   └── config.js
+│   ├── pages/
+│   │   ├── AddListing.jsx
+│   │   ├── Dashboard.jsx
+│   │   ├── Home.css
+│   │   ├── Home.jsx
+│   │   ├── index.js
+│   │   ├── Listing.jsx
+│   │   ├── Login.jsx
+│   │   ├── NotFound.jsx
+│   │   ├── PGDetails.jsx
+│   │   └── Register.jsx
+│   ├── routes/
+│   │   └── Approutes.jsx
+│   ├── services/
+│   ├── App.css
+│   ├── App.jsx
+│   ├── ErrorBoundary.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .git/
+├── .firebaserc
+├── .gitignore
+├── cors.json
+├── eslint.config.js
+├── firebase.json
+├── index.html
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── README.md
+├── storage.rules
+├── tailwind.config.js
+└── vite.config.js 
